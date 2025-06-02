@@ -1,2 +1,2 @@
-# Prisoners-Dilemma-Model
+# Iterated Prisoner's Dilemma
  
