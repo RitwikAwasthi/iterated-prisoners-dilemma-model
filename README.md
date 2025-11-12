@@ -2,7 +2,7 @@
 
 ## Documents
 
-### [Slide Deck PDF](documents%2FMachine%20Learning%20Applications%20in%20Iterated%20Prisoner%27s%20Dilemma.pdf)
+### [Slide Deck PDF](documents%2FPresentation.pdf)
 ### [Slide Deck pptx](documents%2FMachine%20Learning%20Applications%20in%20Iterated%20Prisoner%27s%20Dilemma.pptx)
 ### [Research Paper](documents%2FResearch%20Paper.pdf)
 
